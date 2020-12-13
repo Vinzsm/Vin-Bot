@@ -1,0 +1,17 @@
+const { MessageEmbed } = require("discord.js");
+
+exports.run = async (message, args) => {
+
+}
+
+exports.help = {
+ name: "",
+ description: "",
+ category: "",
+ usage: ""
+}
+
+exports.conf = {
+ aliases: [""],
+ cooldowns:
+}
